@@ -14,4 +14,5 @@ js.jasny_bootstrap.egg-info/requires.txt
 js.jasny_bootstrap.egg-info/top_level.txt
 js/jasny_bootstrap/__init__.py
 js/jasny_bootstrap/test_jasny_bootstrap.txt
-js/jasny_bootstrap/resources/README.txt
+js/jasny_bootstrap/resources/js/jasny-bootstrap.js
+js/jasny_bootstrap/resources/js/jasny-bootstrap.min.js

@@ -26,11 +26,11 @@ Description: js.jasny_bootstrap
         ===========
         
         
-        You can import ``XXX`` from ``js.jasny_bootstrap`` and ``need`` it where you want
+        You can import ``jasny_bootstrap`` from ``js.jasny_bootstrap`` and ``need`` it where you want
         these resources to be included on a page::
         
-          >>> from js.jasny_bootstrap import XXX # XXX fix this test
-          >>> XXX.need()
+          >>> from js.jasny_bootstrap import jasny_bootstrap
+          >>> jasny_bootstrap.need()
         
         
         CHANGES
