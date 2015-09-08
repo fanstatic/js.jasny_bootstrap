@@ -1,3 +1,0 @@
-[fanstatic.libraries]
-jasny_bootstrap = js.jasny_bootstrap:library
-
