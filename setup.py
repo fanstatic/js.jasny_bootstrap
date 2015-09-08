@@ -14,7 +14,7 @@ def read(*rnames):
     return open(os.path.join(os.path.dirname(__file__), *rnames)).read()
 
 long_description = (
-    read('README.txt')
+    read('README.md')
     + '\n' +
     read('js', 'jasny_bootstrap', 'test_jasny_bootstrap.txt')
     + '\n' +
